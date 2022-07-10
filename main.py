@@ -17,6 +17,7 @@ import numpy as np
 
 arr =  []
 i = 0
+#Hier müsst ihr Natürlich den Ordner auswählen, in dem ihr alle Daten gespeichert habt.
 while i < 1000:
     index = "D:\\Programming\\Python\\Web Scrawler\\toktok\\data\\1000_"+str(i)+".csv"
     arr.append(index)
